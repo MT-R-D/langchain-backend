@@ -1,0 +1,8 @@
+langserve[all]
+python-dotenv
+openai
+tiktoken
+langchain-openai
+langchain-community
+faiss-cpu
+pydantic
